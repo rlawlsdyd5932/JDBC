@@ -46,7 +46,5 @@ public class Application3 {
             close(stmt);
             close(con);
         }
-
-        /* 사용한 자원 반납 */
     }
 }
