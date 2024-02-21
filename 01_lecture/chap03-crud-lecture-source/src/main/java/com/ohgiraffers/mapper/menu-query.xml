@@ -22,4 +22,9 @@
              , MENU_PRICE = ?
          WHERE MENU_CODE = ?
     </entry>
+    <entry key="deleteMenu">
+        DELETE
+          FROM TBL_MENU
+         WHERE MENU_CODE = ?
+    </entry>
 </properties>
