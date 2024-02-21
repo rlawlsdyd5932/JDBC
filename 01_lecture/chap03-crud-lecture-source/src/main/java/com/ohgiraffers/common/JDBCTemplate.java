@@ -23,6 +23,8 @@ public class JDBCTemplate {
 
             con = DriverManager.getConnection(url, prop);
 
+            con.setAutoCommit(false);
+
         } catch (IOException e) {
             throw new RuntimeException(e);
         } catch (ClassNotFoundException e) {
