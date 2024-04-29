@@ -27,7 +27,7 @@ public class AttendanceRecordDTO {
         return dateCode;
     }
 
-    public void setDateCode(int dateCode) {
+    public void setDateCode() {
         this.dateCode = dateCode;
     }
 

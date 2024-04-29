@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/03_jdbc.iml" filepath="$PROJECT_DIR$/.idea/03_jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap01-connection-lecture-source.iml" filepath="$PROJECT_DIR$/.idea/modules/chap01-connection-lecture-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap01-connection-lecture-source.main.iml" filepath="$PROJECT_DIR$/.idea/modules/chap01-connection-lecture-source.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap01-connection-lecture-source.test.iml" filepath="$PROJECT_DIR$/.idea/modules/chap01-connection-lecture-source.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap02-statement-lecture-source.iml" filepath="$PROJECT_DIR$/.idea/modules/chap02-statement-lecture-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap02-statement-lecture-source.main.iml" filepath="$PROJECT_DIR$/.idea/modules/chap02-statement-lecture-source.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap02-statement-lecture-source.test.iml" filepath="$PROJECT_DIR$/.idea/modules/chap02-statement-lecture-source.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap03-crud-lecture-source.iml" filepath="$PROJECT_DIR$/.idea/modules/chap03-crud-lecture-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap03-crud-lecture-source.main.iml" filepath="$PROJECT_DIR$/.idea/modules/chap03-crud-lecture-source.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap03-crud-lecture-source.test.iml" filepath="$PROJECT_DIR$/.idea/modules/chap03-crud-lecture-source.test.iml" />
+    </modules>
+  </component>
+</project>
